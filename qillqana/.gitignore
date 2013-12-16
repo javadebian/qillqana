@@ -1,0 +1,12 @@
+target
+.classpath
+.project
+.settings
+qillqana-client-swing/target
+qillqana-client-swing/.classpath
+qillqana-client-swing/.project
+qillqana-client-swing/.settings
+qillqana-server/target
+qillqana-server/.classpath
+qillqana-server/.project
+qillqana-server/.settings
